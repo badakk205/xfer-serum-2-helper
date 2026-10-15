@@ -1,0 +1,11 @@
+# Text file normalization
+# Generated on 2026-11-16
+
+*.jpeg binary
+*.woff binary
+*.jpg binary
+public/**/*.html linguist-vendored
+src/**/*.ts linguist-detectable
+*.html linguist-vendored  
+go.sum linguist-generated
+*.ts linguist-detectable
