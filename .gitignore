@@ -1,0 +1,4 @@
+*.tgz
+.env
+.next/
+coverage/
